@@ -1,0 +1,51 @@
+.registration-container {
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px; 
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0); 
+  }
+  
+  .form-group {
+    color: #000000;
+    margin-bottom: 20px; 
+  }
+  
+  label {
+    color: #000000;
+    display: block;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  select,
+  textarea,
+  input[type="tel"],
+  input[type="email"],
+  input[type="password"],
+  input[type="Date"] {
+    width: 100%; 
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+  }
+  
+  select {
+    height: 40px;
+  }
+  
+  button {
+    background-color: white;
+    color: #110303;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #bcf407;
+  }
+  
